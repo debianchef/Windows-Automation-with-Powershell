@@ -16,14 +16,14 @@ How to run the Script:
 ```bash
   
 
-1.Download the [ScriptName.ps1] script from the [repository/release location].
+1. Download the [ScriptName.ps1] script from the [repository/release location].
 
-2.Choose a directory where you want to store the script.
+2. Choose a directory where you want to store the script.
 Move the [ScriptName.ps1] file to that directory.
 
 3. Open powershell Terminal in the dir 
 
-4.You may need to allow script execution. Use the following command:  Set-ExecutionPolicy RemoteSigned
+4. You may need to allow script execution. Use the following command:  Set-ExecutionPolicy RemoteSigned
 
 5. Run script .\ScriptName.ps1
 
